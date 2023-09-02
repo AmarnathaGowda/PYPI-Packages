@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ ="0.0.0"
 
-REPO_NAME = "IPYNBrenderer"
-AUTHOR_USER_NAME = "Amarnath"
-SRC_REPO = "IPYNBrenderer"
+REPO_NAME = "PYPI-Packages"
+AUTHOR_USER_NAME = "AmarnathaGowda"
+SRC_REPO = "PYPI-Packages"
 AUTHOR_EMAIL ="smarnathagowdat@gmail.com"
 
 setuptools.setup(
